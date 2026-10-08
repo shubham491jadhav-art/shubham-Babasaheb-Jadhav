@@ -1,0 +1,6 @@
+{
+  "name": "VoltFlow - EV Charging Station & Slot Booking",
+  "description": "Real-time electric vehicle charging station slot booking platform with live stall telemetry, dynamic slot reservation, smart range calculator, and secure online payment gateway.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
